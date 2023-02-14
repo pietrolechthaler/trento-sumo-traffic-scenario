@@ -3,27 +3,25 @@
 </p>
 <br>
 
-introduzione
-
-<img src="main.png">
-
-## Table of contents
-- [Table of contents](#table-of-contents)
-  - [Description](#description)
-  - [Folder](#folder)
-  - [Requirements](#requirements)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Contributors](#contributors)
-
-### Description
+## Description
 This repository demonstrates UR5 pick-and-place in ROS and Gazebo. The UR5 uses a Xbox Kinect cam to detect eleven types of Lego Bricks, and publish its position and angolation. 
 
 The goals of this project are:
 - simulate the iteration of a UR5 robot with Lego bricks
 - The robotic arm must be able to move a block from position A to B and construct a castle by assembling different bricks
 
-<img src="trento.png">
+<img src="main.png">
+
+## Table of contents
+- [Description](#description)
+- [Table of contents](#table-of-contents)
+  - [Folder](#folder)
+  - [Requirements](#requirements)
+  - [Setup](#setup)
+  - [Usage](#usage)
+  - [Contributors](#contributors)
+
+
 
 ### Folder
 ```

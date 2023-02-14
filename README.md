@@ -1,15 +1,19 @@
 <p align="center">
   <h2 align="center">Trento Sumo Traffic Scenario</h2>
+  <p align="center">
+Simulation of Urban MObility using Open Data  <br>University of Trento - Prof. <a href="https://www.granelli-lab.org/staff/fabrizio-granelli">Fabrizio Granelli</a>
+  </p>
 </p>
 <br>
+
 <img src="main.png">
 
 ## Description
-This repository demonstrates UR5 pick-and-place in ROS and Gazebo. The UR5 uses a Xbox Kinect cam to detect eleven types of Lego Bricks, and publish its position and angolation. 
+[TODO]
 
 The goals of this project are:
-- simulate the iteration of a UR5 robot with Lego bricks
-- The robotic arm must be able to move a block from position A to B and construct a castle by assembling different bricks
+- 1
+- 2
 
 ## Table of contents
 - [Description](#description)

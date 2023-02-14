@@ -2,6 +2,7 @@
   <h2 align="center">Trento Sumo Traffic Scenario</h2>
 </p>
 <br>
+<img src="main.png">
 
 ## Description
 This repository demonstrates UR5 pick-and-place in ROS and Gazebo. The UR5 uses a Xbox Kinect cam to detect eleven types of Lego Bricks, and publish its position and angolation. 
@@ -9,8 +10,6 @@ This repository demonstrates UR5 pick-and-place in ROS and Gazebo. The UR5 uses 
 The goals of this project are:
 - simulate the iteration of a UR5 robot with Lego bricks
 - The robotic arm must be able to move a block from position A to B and construct a castle by assembling different bricks
-
-<img src="main.png">
 
 ## Table of contents
 - [Description](#description)

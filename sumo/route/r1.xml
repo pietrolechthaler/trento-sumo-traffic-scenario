@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<routes>
+  <vType id="type1" vClass="passenger"/>
+  <flow id="route1" type="type1" begin="0.00" end="900.0" number="8">
+    <route edges="54202827 23056771 97230178#0 97230178#1 97230178#2 25874854#0 25874854#1 25874854#2 474147467 474125275#0 474125275#1 1059188633 25874495 25874513#0 25874513#1 25874513#2"/>
+  </flow>
+</routes>

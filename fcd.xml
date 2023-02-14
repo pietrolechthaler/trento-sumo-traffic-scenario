@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-02-14 22:27:20 by Eclipse SUMO GUI Version 1.15.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="sumo/trento.net.xml"/>
+        <route-files value="sumo/route/r0.xml,sumo/ route/r1.xml,sumo/ route/r2.xml,sumo/ route/r3.xml,sumo/ route/r4.xml,sumo/ route/r5.xml,sumo/ route/r6.xml"/>
+        <additional-files value="sumo/map.poly.xml"/>
+    </input>
+
+    <output>
+        <emission-output value="emissions.xml"/>
+        <fcd-output value="fcd.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="900.0"/>
+        <step-length value="1"/>
+    </time>
+
+    <traci_server>
+        <remote-port value="61050"/>
+    </traci_server>
+
+    <gui_only>
+        <quit-on-end value="true"/>
+        <delay value="500"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<fcd-export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/fcd_file.xsd">
+    <timestep time="0.00">
+        <vehicle id="route0.0" x="3420.98" y="16724.20" angle="148.50" type="type0" speed="0.00" pos="5.10" lane="483221881_0" slope="0.00"/>
+        <vehicle id="route1.0" x="3921.74" y="17169.51" angle="164.37" type="type1" speed="0.00" pos="5.10" lane="54202827_0" slope="0.00"/>
+        <vehicle id="route2.0" x="4527.68" y="17044.78" angle="167.71" type="type2" speed="0.00" pos="5.10" lane="75319181#5_0" slope="0.00"/>
+        <vehicle id="route3.0" x="8022.71" y="13978.45" angle="348.35" type="type3" speed="0.00" pos="5.10" lane="-250533487_0" slope="0.00"/>
+        <vehicle id="route4.0" x="5095.73" y="15208.73" angle="133.12" type="type4" speed="0.00" pos="5.10" lane="312760672#0_0" slope="0.00"/>
+        <vehicle id="route5.0" x="4123.93" y="14157.00" angle="304.46" type="type5" speed="0.00" pos="5.10" lane="775625754#0_0" slope="0.00"/>
+        <vehicle id="route6.0" x="4209.73" y="12663.97" angle="258.69" type="type6" speed="0.00" pos="5.10" lane="-24054398#2_0" slope="0.00"/>
+    </timestep>
+    <timestep time="1.00">
+        <vehicle id="route0.0" x="3422.02" y="16722.51" angle="148.50" type="type0" speed="1.98" pos="7.08" lane="483221881_0" slope="0.00"/>
+        <vehicle id="route1.0" x="3922.23" y="17167.79" angle="164.37" type="type1" speed="1.79" pos="6.89" lane="54202827_0" slope="0.00"/>
+        <vehicle id="route2.0" x="4528.15" y="17042.61" angle="167.71" type="type2" speed="2.22" pos="7.32" lane="75319181#5_0" slope="0.00"/>
+        <vehicle id="route3.0" x="8022.31" y="13980.40" angle="348.35" type="type3" speed="1.99" pos="7.09" lane="-250533487_0" slope="0.00"/>
+        <vehicle id="route4.0" x="5096.69" y="15207.83" angle="133.12" type="type4" speed="1.32" pos="6.42" lane="312760672#0_0" slope="0.00"/>
+        <vehicle id="route5.0" x="4122.31" y="14158.10" angle="304.46" type="type5" speed="1.96" pos="7.06" lane="775625754#0_0" slope="0.00"/>
+        <vehicle id="route6.0" x="4207.57" y="12663.54" angle="258.69" type="type6" speed="2.21" pos="7.31" lane="-24054398#2_0" slope="0.00"/>
+    </timestep>
+    <timestep time="2.00">
+        <vehicle id="route0.0" x="3424.21" y="16718.94" angle="148.50" type="type0" speed="4.19" pos="11.27" lane="483221881_0" slope="0.00"/>
+        <vehicle id="route1.0" x="3923.28" y="17164.03" angle="164.37" type="type1" speed="3.90" pos="10.78" lane="54202827_0" slope="0.00"/>
+        <vehicle id="route2.0" x="4528.99" y="17037.96" angle="169.61" type="type2" speed="4.73" pos="12.05" lane="75319181#5_0" slope="0.00"/>
+        <vehicle id="route3.0" x="8022.03" y="13981.97" angle="349.32" type="type3" speed="3.84" pos="1.12" lane=":2569653644_0_0" slope="0.00"/>
+        <vehicle id="route4.0" x="5098.48" y="15205.20" angle="141.31" type="type4" speed="3.20" pos="9.62" lane="312760672#0_0" slope="0.00"/>
+        <vehicle id="route5.0" x="4118.65" y="14160.62" angle="304.46" type="type5" speed="4.44" pos="11.50" lane="775625754#0_0" slope="0.00"/>
+        <vehicle id="route6.0" x="4203.15" y="12662.65" angle="258.69" type="type6" speed="4.51" pos="11.81" lane="-24054398#2_0" slope="0.00"/>
+    </timestep>
+</fcd-export>

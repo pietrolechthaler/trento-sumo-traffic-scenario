@@ -58,6 +58,11 @@ $ cd trento-sumo-traffic-scenario/sumo/OSMR
 $ chmod +x server.sh
 $ ./server.sh
 ```
+Processes OpenCellID data:
+```
+$ cd trento-sumo-traffic-scenario/opencellid
+$ python3 antenna.py
+```
 
 Run the simulation:
 ```

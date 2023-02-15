@@ -7,7 +7,6 @@ Simulation of Urban MObility using Open Data  <br>University of Trento - Thesis 
   </p>
 </p>
 
-<hr>
 
 ## Description
 [TODO]

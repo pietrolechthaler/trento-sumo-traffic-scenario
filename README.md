@@ -1,12 +1,13 @@
+<img src="main.png">
+
 <p align="center">
   <h2 align="center">Trento Sumo Traffic Scenario</h2>
   <p align="center">
 Simulation of Urban MObility using Open Data  <br>University of Trento - Thesis supervisor Prof. <a href="https://www.granelli-lab.org/staff/fabrizio-granelli">Fabrizio Granelli</a>
   </p>
 </p>
-<br>
 
-<img src="main.png">
+<hr>
 
 ## Description
 [TODO]

@@ -17,7 +17,7 @@ Simulation of Urban MObility using Open Data  <br>University of Trento - Thesis 
   - [Contributors](#contributors)
 
 ### Description
-Trento SUMO Traffic (TnST) is an application of the use of Open Data for the creation of a vehicular simulation within the city of Trento. In particular, in this project Open Data from the Municipality of Trento, about the traffic in the main arteries of the city, and OpenCellID, about the position of the LTE Radio Base Stations, are processed. The project aims to show that starting from open data it is possible to generate new information useful for urban traffic planning and environmental impact assessment, thus contributing to the diffusion of the culture of data sharing in city management. The document is divided in three sections, the first one is an introduction on the OpenSource concept, then in the central part the process of collection and elaboration of the information useful for the creation of the vehicular simulation is described, and finally the results and final considerations are illustrated.
+Trento SUMO Traffic (TnST) is an application of the use of Open Data for the creation of a vehicular simulation within the city of Trento. In particular, in this project Open Data from the Municipality of Trento, about the traffic in the main arteries of the city, and OpenCellID, about the position of the LTE Radio Base Stations, are processed. The project aims to show that starting from open data it is possible to generate new information useful for urban traffic planning and environmental impact assessment, thus contributing to the diffusion of the culture of data sharing in city management. 
 
 ### Folder
 ```
